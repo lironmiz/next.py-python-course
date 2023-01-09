@@ -19,13 +19,17 @@ this repository contains solutions in python to the next.py python course proble
   </a>
 </p>
 
-# course material:
+## Course Material:
 1. One-Liners
 2. Object-Oriented-Programming
 3. Exceptions
 4. Generators
 5. Iterators
 6. Modules
+
+## The cow I created as part of the last exercise in the course:
+
+![WhatsApp Image 2023-01-09 at 08 47 55](https://user-images.githubusercontent.com/91504420/211262226-034ec277-a801-4191-8184-86ad68b24d01.jpg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
