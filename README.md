@@ -19,6 +19,12 @@ this repository contains solutions in python to the next.py python course proble
   </a>
 </p>
 
+![image](https://user-images.githubusercontent.com/91504420/212978744-c0bcbed2-07c1-4cf8-9184-24ca0411b18c.png)
+
+![image](https://user-images.githubusercontent.com/91504420/212978813-ee939ba3-7058-4ec9-9ffe-648c3b18df53.png)
+
+![image](https://user-images.githubusercontent.com/91504420/212978934-737b93f6-9710-4cc5-8c2f-1d05db9f870e.png)
+
 ## Course Material:
 1. One-Liners
 2. Object-Oriented-Programming
