@@ -27,6 +27,9 @@ this repository contains solutions in python to the next.py python course proble
 
 ![image](https://user-images.githubusercontent.com/91504420/212978813-ee939ba3-7058-4ec9-9ffe-648c3b18df53.png)
 
+![TenorGIF](https://user-images.githubusercontent.com/91504420/213182545-ead7cbf9-15e9-484d-a32d-4457868317c1.gif)
+
+
 # Progress Graph 💥
 
 ![image](https://user-images.githubusercontent.com/91504420/212978934-737b93f6-9710-4cc5-8c2f-1d05db9f870e.png)
