@@ -19,9 +19,15 @@ this repository contains solutions in python to the next.py python course proble
   </a>
 </p>
 
+# Examiner's Notes 👨‍🏫
+
 ![image](https://user-images.githubusercontent.com/91504420/213154277-e007307d-1ee5-4444-971d-d5cf76e02f81.png)
 
+# The Graduation Certificate 🦾
+
 ![image](https://user-images.githubusercontent.com/91504420/212978813-ee939ba3-7058-4ec9-9ffe-648c3b18df53.png)
+
+# Progress Graph 💥
 
 ![image](https://user-images.githubusercontent.com/91504420/212978934-737b93f6-9710-4cc5-8c2f-1d05db9f870e.png)
 
@@ -33,7 +39,7 @@ this repository contains solutions in python to the next.py python course proble
 5. Iterators
 6. Modules
 
-## The cow I created as part of the last exercise in the course:
+## The Cow I Created As Part Of The Last Exercise In The Course:
 
 ![WhatsApp Image 2023-01-09 at 08 47 55](https://user-images.githubusercontent.com/91504420/211262226-034ec277-a801-4191-8184-86ad68b24d01.jpg)
 
